@@ -1,0 +1,6 @@
+online_retail.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+extracted_text.txt
+Project Title (2).docx
